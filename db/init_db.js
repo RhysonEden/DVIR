@@ -68,7 +68,7 @@ async function testDB() {
     // );
     // const ranges = await getReportsByDate("2020-11-02", "2020-12-02");
     // const branch = await getReportsByBranch("ATLANTA");
-    console.log(alls);
+    // console.log(alls);
     // console.log(ranges);
   } catch (error) {
     console.error(error);
